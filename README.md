@@ -1,7 +1,7 @@
 # Management-Students
 Create a student management application 
 
-FEATURE: 
+FEATURE
   - add student 
   - update student 
     + name 
